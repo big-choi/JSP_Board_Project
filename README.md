@@ -22,5 +22,10 @@
 ![010](https://user-images.githubusercontent.com/80212139/128287125-efcb1eeb-8ebf-4221-b9ae-273a72b75ee0.jpg)
 ![011](https://user-images.githubusercontent.com/80212139/128287128-a25b5848-18f4-401f-8aff-99b20b353115.jpg)
 
+## 📌 3. UML 📌
+  1. USE CASE DIAGRAM
+  ![프로젝트 2-019](https://user-images.githubusercontent.com/80212139/128287458-14c8b5b8-60db-4f85-b9dc-2e4014fc1c5c.png)
+
+
 
 
