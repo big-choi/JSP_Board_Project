@@ -47,6 +47,19 @@
 				<li><a href="bbs.jsp">LYRICS</a></li>
 				<li><a href="comm.jsp">COMMUNITY</a></li>
 			</ul>
+			<!-- 검색창  -->
+			<form class="navbar-form navbar-left" action="searchedBbs.jsp">
+				<div class="input-group">
+					<input type="text" class="form-control" placeholder="Search"
+						name="search">
+					<div class="input-group-btn">
+						<button class="btn btn-default" type="submit">
+							<i class="glyphicon glyphicon-search"></i>
+						</button>
+					</div>
+				</div>
+			</form>
+			<!-- end -->
 			<%
 			if (userID == null) {
 			%>
@@ -147,7 +160,7 @@
 							<div class="caption">
 								<p>
 									<b>
-									<h4>Billboard Chart</h4>
+										<h4>Billboard Chart</h4>
 									</b>
 								</p>
 								<button type="button" class="btn btn-primary"
@@ -177,7 +190,9 @@
 							<img src="image/kanye_thumb.jpeg" alt="Kanye West">
 							<div class="caption">
 								<p>
-									<h4><b> Kanye West, 곧 앨범 드랍 예정?</b></h4>
+								<h4>
+									<b> Kanye West, 곧 앨범 드랍 예정?</b>
+								</h4>
 								</p>
 								<button type="button" class="btn btn-primary"
 									data-toggle="collapse" data-target="#view-detail2">자세히
@@ -205,57 +220,60 @@
 						</div>
 					</div>
 
-				<div class="col-xs-6 col-md-3">
-					<div class="thumbnail">
-						<img src="image/genius.jpg" alt="GENIUS">
-						<div class="caption">
-							<p>
-								<b><h4>가사의 의미를 알고 싶을 땐?</h4></b>
-							</p>
-							<button type="button" class="btn btn-primary"
-								data-toggle="collapse" data-target="#view-detail3">자세히
-								보기</button>
-							<div id="view-detail3" class="collapse">
-								<br>
+					<div class="col-xs-6 col-md-3">
+						<div class="thumbnail">
+							<img src="image/genius.jpg" alt="GENIUS">
+							<div class="caption">
 								<p>
-									Genius는 음악 가사, 소식, 정보 등을 제공하고 있는<br>미국의 음악 웹사이트입니다. <br>
-									가사해석이 존재해도 우린 종종 그 의미를<br>완전히 이해하지 못하고는 하는데요,<br>
-									Genius는 가사 속 펀치라인(Punch-Line)이나 이중적 의미를<br>이해하기 쉽게 설명해줍니다.<br>
-									또한, 거의 모든 장르의 가사를 제공해주기도 하죠!<br>
+									<b><h4>가사의 의미를 알고 싶을 땐?</h4></b>
 								</p>
-								<p>
-									<a href="https://genius.com/" target="_blank"
-										class="btn btn-primary" role="button">바로가기</a>
-								</p>
+								<button type="button" class="btn btn-primary"
+									data-toggle="collapse" data-target="#view-detail3">자세히
+									보기</button>
+								<div id="view-detail3" class="collapse">
+									<br>
+									<p>
+										Genius는 음악 가사, 소식, 정보 등을 제공하고 있는<br>미국의 음악 웹사이트입니다. <br>
+										가사해석이 존재해도 우린 종종 그 의미를<br>완전히 이해하지 못하고는 하는데요,<br>
+										Genius는 가사 속 펀치라인(Punch-Line)이나 이중적 의미를<br>이해하기 쉽게
+										설명해줍니다.<br> 또한, 거의 모든 장르의 가사를 제공해주기도 하죠!<br>
+									</p>
+									<p>
+										<a href="https://genius.com/" target="_blank"
+											class="btn btn-primary" role="button">바로가기</a>
+									</p>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
 
-				<div class="col-xs-6 col-md-3">
-					<div class="thumbnail">
-						<img src="image/site.png" alt="사이트 소개">
-						<div class="caption">
-							<p>
-								<b><h4>사이트 소개</h4></b>
-							</p>
-							<button type="button" class="btn btn-primary"
-								data-toggle="collapse" data-target="#view-detail4">자세히 <!-- 자세히 보기 버튼 -->
-								보기</button>
-							<div id="view-detail4" class="collapse">
-								<br>
+					<div class="col-xs-6 col-md-3">
+						<div class="thumbnail">
+							<img src="image/site.png" alt="사이트 소개">
+							<div class="caption">
 								<p>
-									본 사이트는 가사해석 커뮤니티를 기반으로 제작되었습니다.<br> MAIN 화면은 각 장르의 대표인물을<br>
-									슬라이드형식인 캐러셀(Carousel)로 구현했으며,<br> Thumbnail 클래스를 이용해<br>
-									뉴스 및 다양한 컨텐츠를 출력할 수 있도록 구현했습니다.<br>
+									<b><h4>사이트 소개</h4></b>
 								</p>
+								<button type="button" class="btn btn-primary"
+									data-toggle="collapse" data-target="#view-detail4">
+									자세히
+									<!-- 자세히 보기 버튼 -->
+									보기
+								</button>
+								<div id="view-detail4" class="collapse">
+									<br>
+									<p>
+										본 사이트는 가사해석 커뮤니티를 기반으로 제작되었습니다.<br> MAIN 화면은 각 장르의 대표인물을<br>
+										슬라이드형식인 캐러셀(Carousel)로 구현했으며,<br> Thumbnail 클래스를 이용해<br>
+										뉴스 및 다양한 컨텐츠를 출력할 수 있도록 구현했습니다.<br>
+									</p>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
 	</div>
 	<!-- 썸네일 캡션 end -->
 
