@@ -17,4 +17,10 @@
 
 
 ## 📌 2. UI 정의서 📌
+![008](https://user-images.githubusercontent.com/80212139/128287100-faf9a5e7-ee7b-4bc3-898a-7dba6c78d943.jpg)
+![009](https://user-images.githubusercontent.com/80212139/128287117-283289bb-cf25-45a7-8ce7-cd1c38a718b8.jpg)
+![010](https://user-images.githubusercontent.com/80212139/128287125-efcb1eeb-8ebf-4221-b9ae-273a72b75ee0.jpg)
+![011](https://user-images.githubusercontent.com/80212139/128287128-a25b5848-18f4-401f-8aff-99b20b353115.jpg)
+
+
 
