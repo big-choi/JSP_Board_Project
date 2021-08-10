@@ -1,4 +1,5 @@
 
+
 # [프로젝트] 가사번역 커뮤니티
 
 ## 📌 1. 프로젝트 소개 📌
@@ -21,6 +22,7 @@
 ![009](https://user-images.githubusercontent.com/80212139/128287117-283289bb-cf25-45a7-8ce7-cd1c38a718b8.jpg)
 ![010](https://user-images.githubusercontent.com/80212139/128287125-efcb1eeb-8ebf-4221-b9ae-273a72b75ee0.jpg)
 ![011](https://user-images.githubusercontent.com/80212139/128287128-a25b5848-18f4-401f-8aff-99b20b353115.jpg)
+![프로젝트 page](https://user-images.githubusercontent.com/80212139/128794387-36167fc8-d705-40f6-b1c6-49d238ba308b.png)
 ![프로젝트 2-012](https://user-images.githubusercontent.com/80212139/128791494-bb3757a2-f8e2-4fb2-9532-032b95b26fae.png)
 
 
