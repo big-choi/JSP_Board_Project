@@ -48,6 +48,9 @@
 ![015](https://user-images.githubusercontent.com/80212139/128791711-4e7a1b1f-9409-45f3-9570-b06687c61672.png)
 ![016](https://user-images.githubusercontent.com/80212139/128791714-9146cf25-372e-4c56-9352-8cf4770b9a3d.png)
 
+2. ER Diagram
+![ERD](https://user-images.githubusercontent.com/80212139/128880645-4769a6f6-54d6-4275-9a72-d1e268abcee9.png)
+
 
 ## 📌 5. 마치며 📌
 
