@@ -31,16 +31,7 @@
 ![프로젝트 page](https://user-images.githubusercontent.com/80212139/128794387-36167fc8-d705-40f6-b1c6-49d238ba308b.png)
 ![프로젝트 2-012](https://user-images.githubusercontent.com/80212139/128791494-bb3757a2-f8e2-4fb2-9532-032b95b26fae.png)
 
-
-## 📌 3. UML 📌
-  1. USE CASE DIAGRAM
-  ![프로젝트 2-019](https://user-images.githubusercontent.com/80212139/128287458-14c8b5b8-60db-4f85-b9dc-2e4014fc1c5c.png)
-  2. CLASS DIAGRAM
-![019](https://user-images.githubusercontent.com/80212139/128791612-b419b1d0-0879-4454-8e9d-7431d65953cf.png)
-![020](https://user-images.githubusercontent.com/80212139/128791616-7ef4bf63-7d91-4d51-8b7d-43dd8f9901c9.png)
-![021](https://user-images.githubusercontent.com/80212139/128791617-6d960321-fb05-44ad-870b-5d242d7bbb92.png)
-
-## 📌 4. DB 테이블 관계도 📌
+## 📌 3. DB 테이블 관계도 📌
 
 1. DB 정의서
 
@@ -50,6 +41,18 @@
 
 2. ER Diagram
 ![ERD](https://user-images.githubusercontent.com/80212139/128880645-4769a6f6-54d6-4275-9a72-d1e268abcee9.png)
+
+
+## 📌 4. UML 📌
+  1. USE CASE DIAGRAM
+  ![ucd](https://user-images.githubusercontent.com/80212139/128973851-7421332f-9458-4de9-8352-57d7f43dd96b.png)
+
+  2. CLASS DIAGRAM
+![019](https://user-images.githubusercontent.com/80212139/128791612-b419b1d0-0879-4454-8e9d-7431d65953cf.png)
+![020](https://user-images.githubusercontent.com/80212139/128791616-7ef4bf63-7d91-4d51-8b7d-43dd8f9901c9.png)
+![021](https://user-images.githubusercontent.com/80212139/128791617-6d960321-fb05-44ad-870b-5d242d7bbb92.png)
+
+
 
 
 ## 📌 5. 마치며 📌
