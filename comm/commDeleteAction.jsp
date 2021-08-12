@@ -56,6 +56,7 @@ request.setCharacterEncoding("UTF-8");
 		} else {
 			PrintWriter script = response.getWriter();
 			script.println("<script>");
+			script.println("alert('게시글을 삭제했습니다.')");
 			script.println("location.href = 'comm.jsp'");
 			script.println("</script>");
 		}
